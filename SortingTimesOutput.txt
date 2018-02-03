@@ -1,0 +1,500 @@
+
+Quicksort Recursive First Item Pivot
+File type: asc
+File size: 50
+280950 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: asc
+File size: 50
+39830 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: asc
+File size: 50
+184626 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: asc
+File size: 50
+99703 nanoseconds
+
+Heapsort Recursive
+File type: asc
+File size: 50
+425595 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: asc
+File size: 500
+9477310 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: asc
+File size: 500
+1597074 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: asc
+File size: 500
+1518369 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: asc
+File size: 500
+624351 nanoseconds
+
+Heapsort Recursive
+File type: asc
+File size: 500
+648571 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: asc
+File size: 1K
+11789410 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: asc
+File size: 1K
+9586389 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: asc
+File size: 1K
+8990965 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: asc
+File size: 1K
+408296 nanoseconds
+
+Heapsort Recursive
+File type: asc
+File size: 1K
+773426 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: asc
+File size: 2K
+17541562 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: asc
+File size: 2K
+19461555 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: asc
+File size: 2K
+19763579 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: asc
+File size: 2K
+360950 nanoseconds
+
+Heapsort Recursive
+File type: asc
+File size: 2K
+650123 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: asc
+File size: 5K
+33923933 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: asc
+File size: 5K
+31832210 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: asc
+File size: 5K
+32294209 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: asc
+File size: 5K
+419057 nanoseconds
+
+Heapsort Recursive
+File type: asc
+File size: 5K
+1339935 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: dup
+File size: 500
+1355901 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: dup
+File size: 500
+18035126 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: dup
+File size: 500
+5609408 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: dup
+File size: 500
+859512 nanoseconds
+
+Heapsort Recursive
+File type: dup
+File size: 500
+265491 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: dup
+File size: 1K
+513130 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: dup
+File size: 1K
+436542 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: dup
+File size: 1K
+5383680 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: dup
+File size: 1K
+423046 nanoseconds
+
+Heapsort Recursive
+File type: dup
+File size: 1K
+414321 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: dup
+File size: 2K
+1090615 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: dup
+File size: 2K
+1483620 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: dup
+File size: 2K
+1193590 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: dup
+File size: 2K
+816176 nanoseconds
+
+Heapsort Recursive
+File type: dup
+File size: 2K
+954409 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: dup
+File size: 5K
+899509 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: dup
+File size: 5K
+812201 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: dup
+File size: 5K
+801874 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: dup
+File size: 5K
+1037379 nanoseconds
+
+Heapsort Recursive
+File type: dup
+File size: 5K
+2790068 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: dup
+File size: 10K
+1443413 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: dup
+File size: 10K
+1379189 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: dup
+File size: 10K
+2370881 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: dup
+File size: 10K
+2563577 nanoseconds
+
+Heapsort Recursive
+File type: dup
+File size: 10K
+5594941 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: ran
+File size: 50
+8338 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: ran
+File size: 50
+300595 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: ran
+File size: 50
+168240 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: ran
+File size: 50
+8466 nanoseconds
+
+Heapsort Recursive
+File type: ran
+File size: 50
+19331 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: ran
+File size: 500
+95069 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: ran
+File size: 500
+866300 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: ran
+File size: 500
+64498 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: ran
+File size: 500
+58948 nanoseconds
+
+Heapsort Recursive
+File type: ran
+File size: 500
+147409 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: ran
+File size: 1K
+179136 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: ran
+File size: 1K
+3535500 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: ran
+File size: 1K
+135464 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: ran
+File size: 1K
+124824 nanoseconds
+
+Heapsort Recursive
+File type: ran
+File size: 1K
+362775 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: ran
+File size: 2K
+411033 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: ran
+File size: 2K
+472046 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: ran
+File size: 2K
+402360 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: ran
+File size: 2K
+365788 nanoseconds
+
+Heapsort Recursive
+File type: ran
+File size: 2K
+1008158 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: ran
+File size: 5K
+736634 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: ran
+File size: 5K
+667227 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: ran
+File size: 5K
+665686 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: ran
+File size: 5K
+610354 nanoseconds
+
+Heapsort Recursive
+File type: ran
+File size: 5K
+1478404 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: rev
+File size: 50
+5140 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: rev
+File size: 50
+15774 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: rev
+File size: 50
+5403 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: rev
+File size: 50
+6026 nanoseconds
+
+Heapsort Recursive
+File type: rev
+File size: 50
+15898 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: rev
+File size: 500
+166553 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: rev
+File size: 500
+192753 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: rev
+File size: 500
+261716 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: rev
+File size: 500
+60699 nanoseconds
+
+Heapsort Recursive
+File type: rev
+File size: 500
+193870 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: rev
+File size: 1K
+543269 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: rev
+File size: 1K
+560784 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: rev
+File size: 1K
+570031 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: rev
+File size: 1K
+52220 nanoseconds
+
+Heapsort Recursive
+File type: rev
+File size: 1K
+246161 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: rev
+File size: 2K
+9815442 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: rev
+File size: 2K
+20674634 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: rev
+File size: 2K
+6499093 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: rev
+File size: 2K
+183272 nanoseconds
+
+Heapsort Recursive
+File type: rev
+File size: 2K
+2711333 nanoseconds
+
+Quicksort Recursive First Item Pivot
+File type: rev
+File size: 5K
+33077125 nanoseconds
+
+Quicksort Recursive Partition Size 100
+File type: rev
+File size: 5K
+26837584 nanoseconds
+
+Quicksort Recursive Partition Size 50
+File type: rev
+File size: 5K
+21577647 nanoseconds
+
+Quicksort Recursive Median-Of-Three
+File type: rev
+File size: 5K
+257507 nanoseconds
+
+Heapsort Recursive
+File type: rev
+File size: 5K
+1764556 nanoseconds
